@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Global Climate Risk Index</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js" defer></script>
+</head>
+<body>
+  <main class="dashboard-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Synthetic Global Dataset</p>
+        <h1>Global Climate Risk Index</h1>
+      </div>
+      <div class="status-pill">
+        <span id="country-count">244</span>
+        countries and territories
+      </div>
+    </header>
+
+    <section class="control-band" aria-label="Risk sector controls">
+      <div class="sector-switcher" role="radiogroup" aria-label="Select risk sector">
+        <button class="sector-button is-active energy" type="button" data-sector="energy_risk" role="radio" aria-checked="true">
+          Energy
+        </button>
+        <button class="sector-button water" type="button" data-sector="water_risk" role="radio" aria-checked="false">
+          Water
+        </button>
+        <button class="sector-button land" type="button" data-sector="land_risk" role="radio" aria-checked="false">
+          Land
+        </button>
+        <button class="sector-button society" type="button" data-sector="society_risk" role="radio" aria-checked="false">
+          Society
+        </button>
+      </div>
+
+      <label class="country-search">
+        <span>Country</span>
+        <input id="country-search" type="search" placeholder="Search country">
+      </label>
+    </section>
+
+    <section class="content-grid">
+      <section class="map-section" aria-label="Global climate risk map">
+        <div class="map-header">
+          <div>
+            <p class="eyebrow" id="active-sector-label">Energy Risk</p>
+            <h2 id="map-title">Energy risk by country</h2>
+          </div>
+          <div class="legend" id="risk-legend" aria-label="Risk legend">
+            <span>Low</span>
+            <div class="legend-ramp"></div>
+            <span>High</span>
+          </div>
+        </div>
+        <div id="risk-map" class="map-canvas" aria-label="Interactive world map"></div>
+      </section>
+
+      <aside class="inspector" aria-label="Country risk profile">
+        <div id="country-profile" class="profile-panel"></div>
+        <section class="ranking-panel" aria-label="Highest risk countries">
+          <h2>Highest Risk</h2>
+          <ol id="top-countries" class="ranking-list"></ol>
+        </section>
+      </aside>
+    </section>
+  </main>
+
+  <script src="assets/js/app.js" type="module"></script>
+</body>
+</html>

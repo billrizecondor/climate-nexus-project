@@ -1,0 +1,25 @@
+﻿[project]
+name = "global-climate-risk-index"
+version = "0.1.0"
+description = "Python pipeline and HTML visualization for country-level climate risk by sector."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "ruff>=0.5",
+]
+
+[tool.ruff]
+line-length = 100
+src = ["climate_risk_index", "scripts", "tests"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

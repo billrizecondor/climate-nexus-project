@@ -1,0 +1,9 @@
+﻿sources: []
+
+# Example entry:
+# - name: Example Climate Dataset
+#   provider: Example Organization
+#   url: https://example.org/dataset
+#   license: CC-BY-4.0
+#   refresh_frequency: annual
+#   notes: Describe fields, coverage, and known limitations.

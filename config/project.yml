@@ -1,0 +1,13 @@
+﻿project:
+  name: global_climate_risk_index
+  version: 0.1.0
+  country_id_field: iso3
+
+scoring:
+  method: weighted_sector_average
+  missing_data_policy: require_minimum_sector_coverage
+  minimum_sector_coverage: 0.75
+
+outputs:
+  processed_scores: data/processed/country_risk_scores.csv
+  site_dataset: site/assets/data/country_risk_scores.json

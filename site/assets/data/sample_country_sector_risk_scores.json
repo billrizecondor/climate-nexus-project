@@ -1,0 +1,1954 @@
+﻿[
+    {
+        "country":  "Aruba",
+        "iso3":  "ABW",
+        "energy_risk":  62.5,
+        "water_risk":  71.2,
+        "land_risk":  68.5,
+        "society_risk":  55
+    },
+    {
+        "country":  "Afghanistan",
+        "iso3":  "AFG",
+        "energy_risk":  74.2,
+        "water_risk":  87,
+        "land_risk":  79.4,
+        "society_risk":  79.3
+    },
+    {
+        "country":  "Angola",
+        "iso3":  "AGO",
+        "energy_risk":  64.4,
+        "water_risk":  65.4,
+        "land_risk":  60.5,
+        "society_risk":  68.4
+    },
+    {
+        "country":  "Anguilla",
+        "iso3":  "AIA",
+        "energy_risk":  57.1,
+        "water_risk":  76.2,
+        "land_risk":  70.4,
+        "society_risk":  54.6
+    },
+    {
+        "country":  "Åland Islands",
+        "iso3":  "ALA",
+        "energy_risk":  46.2,
+        "water_risk":  59,
+        "land_risk":  51.4,
+        "society_risk":  45.3
+    },
+    {
+        "country":  "Albania",
+        "iso3":  "ALB",
+        "energy_risk":  46.5,
+        "water_risk":  59.6,
+        "land_risk":  52.1,
+        "society_risk":  46.2
+    },
+    {
+        "country":  "Andorra",
+        "iso3":  "AND",
+        "energy_risk":  23,
+        "water_risk":  23,
+        "land_risk":  29.8,
+        "society_risk":  20.8
+    },
+    {
+        "country":  "United Arab Emirates",
+        "iso3":  "ARE",
+        "energy_risk":  24.8,
+        "water_risk":  44,
+        "land_risk":  21.2,
+        "society_risk":  25.3
+    },
+    {
+        "country":  "Argentina",
+        "iso3":  "ARG",
+        "energy_risk":  42.5,
+        "water_risk":  44.2,
+        "land_risk":  39.5,
+        "society_risk":  35
+    },
+    {
+        "country":  "Armenia",
+        "iso3":  "ARM",
+        "energy_risk":  52.6,
+        "water_risk":  55.8,
+        "land_risk":  51.5,
+        "society_risk":  48.4
+    },
+    {
+        "country":  "American Samoa",
+        "iso3":  "ASM",
+        "energy_risk":  53,
+        "water_risk":  56.5,
+        "land_risk":  52.2,
+        "society_risk":  49.3
+    },
+    {
+        "country":  "Antigua \u0026 Barbuda",
+        "iso3":  "ATG",
+        "energy_risk":  63.2,
+        "water_risk":  72.4,
+        "land_risk":  69.8,
+        "society_risk":  56.8
+    },
+    {
+        "country":  "Australia",
+        "iso3":  "AUS",
+        "energy_risk":  30.9,
+        "water_risk":  22.3,
+        "land_risk":  20.6,
+        "society_risk":  14.5
+    },
+    {
+        "country":  "Austria",
+        "iso3":  "AUT",
+        "energy_risk":  19.2,
+        "water_risk":  22.9,
+        "land_risk":  21.2,
+        "society_risk":  15.4
+    },
+    {
+        "country":  "Azerbaijan",
+        "iso3":  "AZE",
+        "energy_risk":  52.6,
+        "water_risk":  55.8,
+        "land_risk":  51.5,
+        "society_risk":  48.4
+    },
+    {
+        "country":  "Burundi",
+        "iso3":  "BDI",
+        "energy_risk":  74.5,
+        "water_risk":  87.6,
+        "land_risk":  80.1,
+        "society_risk":  80.2
+    },
+    {
+        "country":  "Belgium",
+        "iso3":  "BEL",
+        "energy_risk":  23,
+        "water_risk":  23,
+        "land_risk":  29.8,
+        "society_risk":  20.8
+    },
+    {
+        "country":  "Benin",
+        "iso3":  "BEN",
+        "energy_risk":  76.7,
+        "water_risk":  77.2,
+        "land_risk":  84.1,
+        "society_risk":  85.6
+    },
+    {
+        "country":  "Bonaire, Sint Eustatius and Saba",
+        "iso3":  "BES",
+        "energy_risk":  50.5,
+        "water_risk":  52.2,
+        "land_risk":  47.5,
+        "society_risk":  43
+    },
+    {
+        "country":  "Burkina Faso",
+        "iso3":  "BFA",
+        "energy_risk":  59.4,
+        "water_risk":  71,
+        "land_risk":  63.1,
+        "society_risk":  68.8
+    },
+    {
+        "country":  "Bangladesh",
+        "iso3":  "BGD",
+        "energy_risk":  60.8,
+        "water_risk":  73.4,
+        "land_risk":  65.8,
+        "society_risk":  59.4
+    },
+    {
+        "country":  "Bulgaria",
+        "iso3":  "BGR",
+        "energy_risk":  42.8,
+        "water_risk":  44.8,
+        "land_risk":  40.2,
+        "society_risk":  35.9
+    },
+    {
+        "country":  "Bahrain",
+        "iso3":  "BHR",
+        "energy_risk":  51.2,
+        "water_risk":  71.4,
+        "land_risk":  48.8,
+        "society_risk":  44.8
+    },
+    {
+        "country":  "Bahamas",
+        "iso3":  "BHS",
+        "energy_risk":  63.6,
+        "water_risk":  73,
+        "land_risk":  70.5,
+        "society_risk":  57.7
+    },
+    {
+        "country":  "Bosnia \u0026 Herzegovina",
+        "iso3":  "BIH",
+        "energy_risk":  48,
+        "water_risk":  48,
+        "land_risk":  54.8,
+        "society_risk":  49.8
+    },
+    {
+        "country":  "St. Barthélemy",
+        "iso3":  "BLM",
+        "energy_risk":  62.8,
+        "water_risk":  71.8,
+        "land_risk":  69.2,
+        "society_risk":  55.9
+    },
+    {
+        "country":  "Belarus",
+        "iso3":  "BLR",
+        "energy_risk":  52.6,
+        "water_risk":  55.8,
+        "land_risk":  51.5,
+        "society_risk":  48.4
+    },
+    {
+        "country":  "Belize",
+        "iso3":  "BLZ",
+        "energy_risk":  55.5,
+        "water_risk":  60.7,
+        "land_risk":  56.9,
+        "society_risk":  42.6
+    },
+    {
+        "country":  "Bermuda",
+        "iso3":  "BMU",
+        "energy_risk":  66.1,
+        "water_risk":  77.3,
+        "land_risk":  75.2,
+        "society_risk":  64
+    },
+    {
+        "country":  "Bolivia",
+        "iso3":  "BOL",
+        "energy_risk":  66.6,
+        "water_risk":  69,
+        "land_risk":  64.5,
+        "society_risk":  60.7
+    },
+    {
+        "country":  "Brazil",
+        "iso3":  "BRA",
+        "energy_risk":  63.7,
+        "water_risk":  64.2,
+        "land_risk":  71.1,
+        "society_risk":  66.6
+    },
+    {
+        "country":  "Barbados",
+        "iso3":  "BRB",
+        "energy_risk":  61,
+        "water_risk":  68.8,
+        "land_risk":  77.8,
+        "society_risk":  64.5
+    },
+    {
+        "country":  "Brunei",
+        "iso3":  "BRN",
+        "energy_risk":  53.4,
+        "water_risk":  57.1,
+        "land_risk":  52.9,
+        "society_risk":  50.2
+    },
+    {
+        "country":  "Bhutan",
+        "iso3":  "BTN",
+        "energy_risk":  69.1,
+        "water_risk":  73.3,
+        "land_risk":  69.2,
+        "society_risk":  67
+    },
+    {
+        "country":  "Botswana",
+        "iso3":  "BWA",
+        "energy_risk":  50.5,
+        "water_risk":  52.2,
+        "land_risk":  47.5,
+        "society_risk":  43
+    },
+    {
+        "country":  "Central African Republic",
+        "iso3":  "CAF",
+        "energy_risk":  59.7,
+        "water_risk":  71.6,
+        "land_risk":  63.7,
+        "society_risk":  69.7
+    },
+    {
+        "country":  "Canada",
+        "iso3":  "CAN",
+        "energy_risk":  22.6,
+        "water_risk":  22.4,
+        "land_risk":  29.1,
+        "society_risk":  19.9
+    },
+    {
+        "country":  "Cocos (Keeling) Islands",
+        "iso3":  "CCK",
+        "energy_risk":  47.2,
+        "water_risk":  60.8,
+        "land_risk":  53.4,
+        "society_risk":  48
+    },
+    {
+        "country":  "Switzerland",
+        "iso3":  "CHE",
+        "energy_risk":  21.9,
+        "water_risk":  35.2,
+        "land_risk":  27.8,
+        "society_risk":  18.1
+    },
+    {
+        "country":  "Chile",
+        "iso3":  "CHL",
+        "energy_risk":  41.4,
+        "water_risk":  42.4,
+        "land_risk":  37.5,
+        "society_risk":  45.4
+    },
+    {
+        "country":  "China",
+        "iso3":  "CHN",
+        "energy_risk":  42.1,
+        "water_risk":  43.6,
+        "land_risk":  38.8,
+        "society_risk":  47.1
+    },
+    {
+        "country":  "Côte d’Ivoire",
+        "iso3":  "CIV",
+        "energy_risk":  68.4,
+        "water_risk":  72.1,
+        "land_risk":  67.9,
+        "society_risk":  65.2
+    },
+    {
+        "country":  "Cameroon",
+        "iso3":  "CMR",
+        "energy_risk":  68.4,
+        "water_risk":  72.1,
+        "land_risk":  67.9,
+        "society_risk":  65.2
+    },
+    {
+        "country":  "Congo (DRC)",
+        "iso3":  "COD",
+        "energy_risk":  64,
+        "water_risk":  64.8,
+        "land_risk":  71.8,
+        "society_risk":  67.5
+    },
+    {
+        "country":  "Congo",
+        "iso3":  "COG",
+        "energy_risk":  65.1,
+        "water_risk":  66.6,
+        "land_risk":  61.8,
+        "society_risk":  70.1
+    },
+    {
+        "country":  "Cook Islands",
+        "iso3":  "COK",
+        "energy_risk":  51.6,
+        "water_risk":  54,
+        "land_risk":  49.5,
+        "society_risk":  45.7
+    },
+    {
+        "country":  "Colombia",
+        "iso3":  "COL",
+        "energy_risk":  66.9,
+        "water_risk":  69.6,
+        "land_risk":  65.2,
+        "society_risk":  61.6
+    },
+    {
+        "country":  "Comoros",
+        "iso3":  "COM",
+        "energy_risk":  67.3,
+        "water_risk":  70.2,
+        "land_risk":  65.9,
+        "society_risk":  62.5
+    },
+    {
+        "country":  "Cabo Verde",
+        "iso3":  "CPV",
+        "energy_risk":  70.9,
+        "water_risk":  62.3,
+        "land_risk":  60.6,
+        "society_risk":  58.5
+    },
+    {
+        "country":  "Costa Rica",
+        "iso3":  "CRI",
+        "energy_risk":  43.9,
+        "water_risk":  46.6,
+        "land_risk":  42.2,
+        "society_risk":  38.6
+    },
+    {
+        "country":  "Cuba",
+        "iso3":  "CUB",
+        "energy_risk":  50.5,
+        "water_risk":  52.2,
+        "land_risk":  47.5,
+        "society_risk":  43
+    },
+    {
+        "country":  "Curaçao",
+        "iso3":  "CUW",
+        "energy_risk":  58,
+        "water_risk":  69.9,
+        "land_risk":  70.6,
+        "society_risk":  60.9
+    },
+    {
+        "country":  "Christmas Island",
+        "iso3":  "CXR",
+        "energy_risk":  45.3,
+        "water_risk":  49.7,
+        "land_risk":  48.3,
+        "society_risk":  47.1
+    },
+    {
+        "country":  "Cayman Islands",
+        "iso3":  "CYM",
+        "energy_risk":  67.9,
+        "water_risk":  66.3,
+        "land_risk":  66.6,
+        "society_risk":  55.5
+    },
+    {
+        "country":  "Cyprus",
+        "iso3":  "CYP",
+        "energy_risk":  37,
+        "water_risk":  41.1,
+        "land_risk":  39.6,
+        "society_risk":  38.2
+    },
+    {
+        "country":  "Czechia",
+        "iso3":  "CZE",
+        "energy_risk":  28.4,
+        "water_risk":  32.1,
+        "land_risk":  27.9,
+        "society_risk":  21.2
+    },
+    {
+        "country":  "Germany",
+        "iso3":  "DEU",
+        "energy_risk":  26.9,
+        "water_risk":  29.6,
+        "land_risk":  25.2,
+        "society_risk":  17.6
+    },
+    {
+        "country":  "Djibouti",
+        "iso3":  "DJI",
+        "energy_risk":  64.4,
+        "water_risk":  65.4,
+        "land_risk":  60.5,
+        "society_risk":  68.4
+    },
+    {
+        "country":  "Dominica",
+        "iso3":  "DMA",
+        "energy_risk":  59.6,
+        "water_risk":  66.4,
+        "land_risk":  75.1,
+        "society_risk":  60.9
+    },
+    {
+        "country":  "Denmark",
+        "iso3":  "DNK",
+        "energy_risk":  26.6,
+        "water_risk":  29,
+        "land_risk":  24.5,
+        "society_risk":  16.7
+    },
+    {
+        "country":  "Dominican Republic",
+        "iso3":  "DOM",
+        "energy_risk":  67.6,
+        "water_risk":  70.8,
+        "land_risk":  66.5,
+        "society_risk":  63.4
+    },
+    {
+        "country":  "Algeria",
+        "iso3":  "DZA",
+        "energy_risk":  67.3,
+        "water_risk":  88.2,
+        "land_risk":  65.9,
+        "society_risk":  62.5
+    },
+    {
+        "country":  "Ecuador",
+        "iso3":  "ECU",
+        "energy_risk":  66.6,
+        "water_risk":  69,
+        "land_risk":  64.5,
+        "society_risk":  60.7
+    },
+    {
+        "country":  "Egypt",
+        "iso3":  "EGY",
+        "energy_risk":  69.4,
+        "water_risk":  91.9,
+        "land_risk":  69.9,
+        "society_risk":  67.9
+    },
+    {
+        "country":  "Eritrea",
+        "iso3":  "ERI",
+        "energy_risk":  80.6,
+        "water_risk":  83.8,
+        "land_risk":  79.5,
+        "society_risk":  82.4
+    },
+    {
+        "country":  "Spain",
+        "iso3":  "ESP",
+        "energy_risk":  30.5,
+        "water_risk":  35.7,
+        "land_risk":  31.9,
+        "society_risk":  13.6
+    },
+    {
+        "country":  "Estonia",
+        "iso3":  "EST",
+        "energy_risk":  20,
+        "water_risk":  24.1,
+        "land_risk":  22.6,
+        "society_risk":  17.2
+    },
+    {
+        "country":  "Ethiopia",
+        "iso3":  "ETH",
+        "energy_risk":  68,
+        "water_risk":  71.5,
+        "land_risk":  67.2,
+        "society_risk":  64.3
+    },
+    {
+        "country":  "Finland",
+        "iso3":  "FIN",
+        "energy_risk":  26.6,
+        "water_risk":  29,
+        "land_risk":  24.5,
+        "society_risk":  16.7
+    },
+    {
+        "country":  "Fiji",
+        "iso3":  "FJI",
+        "energy_risk":  62.1,
+        "water_risk":  70.6,
+        "land_risk":  67.8,
+        "society_risk":  67.1
+    },
+    {
+        "country":  "Falkland Islands",
+        "iso3":  "FLK",
+        "energy_risk":  51.6,
+        "water_risk":  54,
+        "land_risk":  49.5,
+        "society_risk":  45.7
+    },
+    {
+        "country":  "France",
+        "iso3":  "FRA",
+        "energy_risk":  25.1,
+        "water_risk":  26.6,
+        "land_risk":  21.8,
+        "society_risk":  26.1
+    },
+    {
+        "country":  "Faroe Islands",
+        "iso3":  "FRO",
+        "energy_risk":  55.2,
+        "water_risk":  60.1,
+        "land_risk":  56.2,
+        "society_risk":  54.7
+    },
+    {
+        "country":  "Micronesia",
+        "iso3":  "FSM",
+        "energy_risk":  82.8,
+        "water_risk":  87.5,
+        "land_risk":  83.6,
+        "society_risk":  87.8
+    },
+    {
+        "country":  "Gabon",
+        "iso3":  "GAB",
+        "energy_risk":  59.7,
+        "water_risk":  71.6,
+        "land_risk":  63.7,
+        "society_risk":  69.7
+    },
+    {
+        "country":  "United Kingdom",
+        "iso3":  "GBR",
+        "energy_risk":  25.8,
+        "water_risk":  27.8,
+        "land_risk":  23.2,
+        "society_risk":  14.9
+    },
+    {
+        "country":  "Georgia",
+        "iso3":  "GEO",
+        "energy_risk":  50.8,
+        "water_risk":  52.8,
+        "land_risk":  48.2,
+        "society_risk":  43.9
+    },
+    {
+        "country":  "Guernsey",
+        "iso3":  "GGY",
+        "energy_risk":  55.2,
+        "water_risk":  60.1,
+        "land_risk":  56.2,
+        "society_risk":  54.7
+    },
+    {
+        "country":  "Ghana",
+        "iso3":  "GHA",
+        "energy_risk":  61.9,
+        "water_risk":  75.2,
+        "land_risk":  67.8,
+        "society_risk":  62.1
+    },
+    {
+        "country":  "Gibraltar",
+        "iso3":  "GIB",
+        "energy_risk":  47.6,
+        "water_risk":  47.4,
+        "land_risk":  54.1,
+        "society_risk":  48.9
+    },
+    {
+        "country":  "Guinea",
+        "iso3":  "GIN",
+        "energy_risk":  66.9,
+        "water_risk":  69.6,
+        "land_risk":  65.2,
+        "society_risk":  61.6
+    },
+    {
+        "country":  "Guadeloupe",
+        "iso3":  "GLP",
+        "energy_risk":  65.7,
+        "water_risk":  76.7,
+        "land_risk":  74.5,
+        "society_risk":  63.1
+    },
+    {
+        "country":  "Gambia",
+        "iso3":  "GMB",
+        "energy_risk":  64,
+        "water_risk":  64.8,
+        "land_risk":  71.8,
+        "society_risk":  67.5
+    },
+    {
+        "country":  "Guinea-Bissau",
+        "iso3":  "GNB",
+        "energy_risk":  64.4,
+        "water_risk":  65.4,
+        "land_risk":  60.5,
+        "society_risk":  68.4
+    },
+    {
+        "country":  "Equatorial Guinea",
+        "iso3":  "GNQ",
+        "energy_risk":  54.8,
+        "water_risk":  59.5,
+        "land_risk":  55.6,
+        "society_risk":  53.8
+    },
+    {
+        "country":  "Greece",
+        "iso3":  "GRC",
+        "energy_risk":  43.2,
+        "water_risk":  45.4,
+        "land_risk":  40.8,
+        "society_risk":  36.8
+    },
+    {
+        "country":  "Grenada",
+        "iso3":  "GRD",
+        "energy_risk":  63.6,
+        "water_risk":  73,
+        "land_risk":  70.5,
+        "society_risk":  57.7
+    },
+    {
+        "country":  "Greenland",
+        "iso3":  "GRL",
+        "energy_risk":  54.4,
+        "water_risk":  58.9,
+        "land_risk":  54.9,
+        "society_risk":  52.9
+    },
+    {
+        "country":  "Guatemala",
+        "iso3":  "GTM",
+        "energy_risk":  70.5,
+        "water_risk":  75.7,
+        "land_risk":  71.9,
+        "society_risk":  57.6
+    },
+    {
+        "country":  "French Guiana",
+        "iso3":  "GUF",
+        "energy_risk":  53.4,
+        "water_risk":  57.1,
+        "land_risk":  52.9,
+        "society_risk":  50.2
+    },
+    {
+        "country":  "Guam",
+        "iso3":  "GUM",
+        "energy_risk":  67.9,
+        "water_risk":  66.3,
+        "land_risk":  66.6,
+        "society_risk":  55.5
+    },
+    {
+        "country":  "Guyana",
+        "iso3":  "GUY",
+        "energy_risk":  63.2,
+        "water_risk":  69.5,
+        "land_risk":  68.6,
+        "society_risk":  69.3
+    },
+    {
+        "country":  "Hong Kong SAR",
+        "iso3":  "HKG",
+        "energy_risk":  50.5,
+        "water_risk":  52.2,
+        "land_risk":  47.5,
+        "society_risk":  43
+    },
+    {
+        "country":  "Honduras",
+        "iso3":  "HND",
+        "energy_risk":  65.5,
+        "water_risk":  67.2,
+        "land_risk":  62.5,
+        "society_risk":  58
+    },
+    {
+        "country":  "Croatia",
+        "iso3":  "HRV",
+        "energy_risk":  38.4,
+        "water_risk":  43.5,
+        "land_risk":  42.3,
+        "society_risk":  41.8
+    },
+    {
+        "country":  "Haiti",
+        "iso3":  "HTI",
+        "energy_risk":  82.4,
+        "water_risk":  86.9,
+        "land_risk":  82.9,
+        "society_risk":  86.9
+    },
+    {
+        "country":  "Hungary",
+        "iso3":  "HUN",
+        "energy_risk":  36.6,
+        "water_risk":  40.5,
+        "land_risk":  38.9,
+        "society_risk":  37.3
+    },
+    {
+        "country":  "Indonesia",
+        "iso3":  "IDN",
+        "energy_risk":  65.8,
+        "water_risk":  67.8,
+        "land_risk":  63.2,
+        "society_risk":  58.9
+    },
+    {
+        "country":  "Isle of Man",
+        "iso3":  "IMN",
+        "energy_risk":  54.1,
+        "water_risk":  58.3,
+        "land_risk":  54.2,
+        "society_risk":  52
+    },
+    {
+        "country":  "India",
+        "iso3":  "IND",
+        "energy_risk":  65.8,
+        "water_risk":  67.8,
+        "land_risk":  63.2,
+        "society_risk":  58.9
+    },
+    {
+        "country":  "British Indian Ocean Territory",
+        "iso3":  "IOT",
+        "energy_risk":  45,
+        "water_risk":  49.1,
+        "land_risk":  47.6,
+        "society_risk":  46.2
+    },
+    {
+        "country":  "Ireland",
+        "iso3":  "IRL",
+        "energy_risk":  30.2,
+        "water_risk":  35.1,
+        "land_risk":  31.2,
+        "society_risk":  25.7
+    },
+    {
+        "country":  "Iran",
+        "iso3":  "IRN",
+        "energy_risk":  70.9,
+        "water_risk":  80.3,
+        "land_risk":  60.6,
+        "society_risk":  58.5
+    },
+    {
+        "country":  "Iraq",
+        "iso3":  "IRQ",
+        "energy_risk":  60,
+        "water_risk":  82.1,
+        "land_risk":  62.6,
+        "society_risk":  61.2
+    },
+    {
+        "country":  "Iceland",
+        "iso3":  "ISL",
+        "energy_risk":  30.5,
+        "water_risk":  35.7,
+        "land_risk":  31.9,
+        "society_risk":  13.6
+    },
+    {
+        "country":  "Israel",
+        "iso3":  "ISR",
+        "energy_risk":  20.7,
+        "water_risk":  43.3,
+        "land_risk":  23.9,
+        "society_risk":  19
+    },
+    {
+        "country":  "Italy",
+        "iso3":  "ITA",
+        "energy_risk":  43.9,
+        "water_risk":  46.6,
+        "land_risk":  42.2,
+        "society_risk":  38.6
+    },
+    {
+        "country":  "Jamaica",
+        "iso3":  "JAM",
+        "energy_risk":  61.8,
+        "water_risk":  70,
+        "land_risk":  67.2,
+        "society_risk":  66.3
+    },
+    {
+        "country":  "Jersey",
+        "iso3":  "JEY",
+        "energy_risk":  55.5,
+        "water_risk":  60.7,
+        "land_risk":  56.9,
+        "society_risk":  42.6
+    },
+    {
+        "country":  "Jordan",
+        "iso3":  "JOR",
+        "energy_risk":  59.6,
+        "water_risk":  81.5,
+        "land_risk":  61.9,
+        "society_risk":  60.3
+    },
+    {
+        "country":  "Japan",
+        "iso3":  "JPN",
+        "energy_risk":  30.5,
+        "water_risk":  35.7,
+        "land_risk":  31.9,
+        "society_risk":  13.6
+    },
+    {
+        "country":  "Kazakhstan",
+        "iso3":  "KAZ",
+        "energy_risk":  54.8,
+        "water_risk":  59.5,
+        "land_risk":  55.6,
+        "society_risk":  53.8
+    },
+    {
+        "country":  "Kenya",
+        "iso3":  "KEN",
+        "energy_risk":  66.9,
+        "water_risk":  69.6,
+        "land_risk":  65.2,
+        "society_risk":  61.6
+    },
+    {
+        "country":  "Kyrgyzstan",
+        "iso3":  "KGZ",
+        "energy_risk":  45,
+        "water_risk":  49.1,
+        "land_risk":  47.6,
+        "society_risk":  46.2
+    },
+    {
+        "country":  "Cambodia",
+        "iso3":  "KHM",
+        "energy_risk":  67.6,
+        "water_risk":  70.8,
+        "land_risk":  66.5,
+        "society_risk":  63.4
+    },
+    {
+        "country":  "Kiribati",
+        "iso3":  "KIR",
+        "energy_risk":  82.8,
+        "water_risk":  87.5,
+        "land_risk":  83.6,
+        "society_risk":  87.8
+    },
+    {
+        "country":  "St. Kitts \u0026 Nevis",
+        "iso3":  "KNA",
+        "energy_risk":  62.5,
+        "water_risk":  71.2,
+        "land_risk":  68.5,
+        "society_risk":  55
+    },
+    {
+        "country":  "Korea",
+        "iso3":  "KOR",
+        "energy_risk":  20,
+        "water_risk":  24.1,
+        "land_risk":  22.6,
+        "society_risk":  17.2
+    },
+    {
+        "country":  "Kuwait",
+        "iso3":  "KWT",
+        "energy_risk":  40.6,
+        "water_risk":  65.1,
+        "land_risk":  46.3,
+        "society_risk":  47.2
+    },
+    {
+        "country":  "Laos",
+        "iso3":  "LAO",
+        "energy_risk":  66.2,
+        "water_risk":  68.4,
+        "land_risk":  63.8,
+        "society_risk":  59.8
+    },
+    {
+        "country":  "Lebanon",
+        "iso3":  "LBN",
+        "energy_risk":  66.2,
+        "water_risk":  68.4,
+        "land_risk":  63.8,
+        "society_risk":  59.8
+    },
+    {
+        "country":  "Liberia",
+        "iso3":  "LBR",
+        "energy_risk":  80.6,
+        "water_risk":  83.8,
+        "land_risk":  79.5,
+        "society_risk":  82.4
+    },
+    {
+        "country":  "Libya",
+        "iso3":  "LBY",
+        "energy_risk":  55.2,
+        "water_risk":  78.1,
+        "land_risk":  56.2,
+        "society_risk":  54.7
+    },
+    {
+        "country":  "St. Lucia",
+        "iso3":  "LCA",
+        "energy_risk":  58.9,
+        "water_risk":  79.2,
+        "land_risk":  73.8,
+        "society_risk":  59.1
+    },
+    {
+        "country":  "Liechtenstein",
+        "iso3":  "LIE",
+        "energy_risk":  25.5,
+        "water_risk":  27.2,
+        "land_risk":  22.5,
+        "society_risk":  14
+    },
+    {
+        "country":  "Sri Lanka",
+        "iso3":  "LKA",
+        "energy_risk":  64.8,
+        "water_risk":  66,
+        "land_risk":  61.2,
+        "society_risk":  69.3
+    },
+    {
+        "country":  "Lesotho",
+        "iso3":  "LSO",
+        "energy_risk":  45.7,
+        "water_risk":  50.3,
+        "land_risk":  48.9,
+        "society_risk":  48
+    },
+    {
+        "country":  "Lithuania",
+        "iso3":  "LTU",
+        "energy_risk":  23.2,
+        "water_risk":  29.5,
+        "land_risk":  28.6,
+        "society_risk":  25.3
+    },
+    {
+        "country":  "Luxembourg",
+        "iso3":  "LUX",
+        "energy_risk":  24.6,
+        "water_risk":  31.9,
+        "land_risk":  31.3,
+        "society_risk":  15.9
+    },
+    {
+        "country":  "Latvia",
+        "iso3":  "LVA",
+        "energy_risk":  28.7,
+        "water_risk":  32.7,
+        "land_risk":  28.5,
+        "society_risk":  22.1
+    },
+    {
+        "country":  "Macao SAR",
+        "iso3":  "MAC",
+        "energy_risk":  47.2,
+        "water_risk":  60.8,
+        "land_risk":  53.4,
+        "society_risk":  48
+    },
+    {
+        "country":  "St. Martin",
+        "iso3":  "MAF",
+        "energy_risk":  60.3,
+        "water_risk":  67.6,
+        "land_risk":  76.5,
+        "society_risk":  62.7
+    },
+    {
+        "country":  "Morocco",
+        "iso3":  "MAR",
+        "energy_risk":  67.6,
+        "water_risk":  88.8,
+        "land_risk":  66.5,
+        "society_risk":  63.4
+    },
+    {
+        "country":  "Monaco",
+        "iso3":  "MCO",
+        "energy_risk":  27.3,
+        "water_risk":  30.2,
+        "land_risk":  25.9,
+        "society_risk":  18.5
+    },
+    {
+        "country":  "Moldova",
+        "iso3":  "MDA",
+        "energy_risk":  47.6,
+        "water_risk":  47.4,
+        "land_risk":  54.1,
+        "society_risk":  48.9
+    },
+    {
+        "country":  "Madagascar",
+        "iso3":  "MDG",
+        "energy_risk":  64.8,
+        "water_risk":  66,
+        "land_risk":  61.2,
+        "society_risk":  69.3
+    },
+    {
+        "country":  "Maldives",
+        "iso3":  "MDV",
+        "energy_risk":  83.2,
+        "water_risk":  88.1,
+        "land_risk":  84.2,
+        "society_risk":  88.7
+    },
+    {
+        "country":  "Mexico",
+        "iso3":  "MEX",
+        "energy_risk":  59.2,
+        "water_risk":  62.9,
+        "land_risk":  61.2,
+        "society_risk":  59.4
+    },
+    {
+        "country":  "Marshall Islands",
+        "iso3":  "MHL",
+        "energy_risk":  81,
+        "water_risk":  84.5,
+        "land_risk":  80.2,
+        "society_risk":  83.3
+    },
+    {
+        "country":  "North Macedonia",
+        "iso3":  "MKD",
+        "energy_risk":  51.2,
+        "water_risk":  53.4,
+        "land_risk":  48.8,
+        "society_risk":  44.8
+    },
+    {
+        "country":  "Mali",
+        "iso3":  "MLI",
+        "energy_risk":  81.4,
+        "water_risk":  85.1,
+        "land_risk":  80.9,
+        "society_risk":  84.2
+    },
+    {
+        "country":  "Malta",
+        "iso3":  "MLT",
+        "energy_risk":  37.3,
+        "water_risk":  41.7,
+        "land_risk":  40.3,
+        "society_risk":  39.1
+    },
+    {
+        "country":  "Myanmar",
+        "iso3":  "MMR",
+        "energy_risk":  60,
+        "water_risk":  64.1,
+        "land_risk":  62.6,
+        "society_risk":  61.2
+    },
+    {
+        "country":  "Montenegro",
+        "iso3":  "MNE",
+        "energy_risk":  52.6,
+        "water_risk":  55.8,
+        "land_risk":  51.5,
+        "society_risk":  48.4
+    },
+    {
+        "country":  "Mongolia",
+        "iso3":  "MNG",
+        "energy_risk":  53.4,
+        "water_risk":  57.1,
+        "land_risk":  52.9,
+        "society_risk":  50.2
+    },
+    {
+        "country":  "Northern Mariana Islands",
+        "iso3":  "MNP",
+        "energy_risk":  56.6,
+        "water_risk":  67.5,
+        "land_risk":  67.9,
+        "society_risk":  57.3
+    },
+    {
+        "country":  "Mozambique",
+        "iso3":  "MOZ",
+        "energy_risk":  63.6,
+        "water_risk":  70.1,
+        "land_risk":  69.3,
+        "society_risk":  70.2
+    },
+    {
+        "country":  "Mauritania",
+        "iso3":  "MRT",
+        "energy_risk":  62.5,
+        "water_risk":  68.3,
+        "land_risk":  67.3,
+        "society_risk":  67.5
+    },
+    {
+        "country":  "Montserrat",
+        "iso3":  "MSR",
+        "energy_risk":  59.1,
+        "water_risk":  71.7,
+        "land_risk":  72.6,
+        "society_risk":  63.6
+    },
+    {
+        "country":  "Martinique",
+        "iso3":  "MTQ",
+        "energy_risk":  59.1,
+        "water_risk":  71.7,
+        "land_risk":  72.6,
+        "society_risk":  63.6
+    },
+    {
+        "country":  "Mauritius",
+        "iso3":  "MUS",
+        "energy_risk":  40.2,
+        "water_risk":  46.5,
+        "land_risk":  45.6,
+        "society_risk":  46.3
+    },
+    {
+        "country":  "Malawi",
+        "iso3":  "MWI",
+        "energy_risk":  60.3,
+        "water_risk":  64.7,
+        "land_risk":  63.3,
+        "society_risk":  62.1
+    },
+    {
+        "country":  "Malaysia",
+        "iso3":  "MYS",
+        "energy_risk":  41.6,
+        "water_risk":  48.9,
+        "land_risk":  48.3,
+        "society_risk":  36.9
+    },
+    {
+        "country":  "Mayotte",
+        "iso3":  "MYT",
+        "energy_risk":  50,
+        "water_risk":  57.5,
+        "land_risk":  45,
+        "society_risk":  45.8
+    },
+    {
+        "country":  "Namibia",
+        "iso3":  "NAM",
+        "energy_risk":  66.2,
+        "water_risk":  68.4,
+        "land_risk":  63.8,
+        "society_risk":  59.8
+    },
+    {
+        "country":  "New Caledonia",
+        "iso3":  "NCL",
+        "energy_risk":  63.6,
+        "water_risk":  73,
+        "land_risk":  70.5,
+        "society_risk":  57.7
+    },
+    {
+        "country":  "Niger",
+        "iso3":  "NER",
+        "energy_risk":  69.4,
+        "water_risk":  73.9,
+        "land_risk":  69.9,
+        "society_risk":  67.9
+    },
+    {
+        "country":  "Norfolk Island",
+        "iso3":  "NFK",
+        "energy_risk":  52.3,
+        "water_risk":  55.2,
+        "land_risk":  50.9,
+        "society_risk":  47.5
+    },
+    {
+        "country":  "Nigeria",
+        "iso3":  "NGA",
+        "energy_risk":  64,
+        "water_risk":  64.8,
+        "land_risk":  71.8,
+        "society_risk":  67.5
+    },
+    {
+        "country":  "Nicaragua",
+        "iso3":  "NIC",
+        "energy_risk":  50.5,
+        "water_risk":  52.2,
+        "land_risk":  47.5,
+        "society_risk":  43
+    },
+    {
+        "country":  "Niue",
+        "iso3":  "NIU",
+        "energy_risk":  57,
+        "water_risk":  68.1,
+        "land_risk":  68.6,
+        "society_risk":  58.2
+    },
+    {
+        "country":  "Netherlands",
+        "iso3":  "NLD",
+        "energy_risk":  26.9,
+        "water_risk":  29.6,
+        "land_risk":  25.2,
+        "society_risk":  17.6
+    },
+    {
+        "country":  "Norway",
+        "iso3":  "NOR",
+        "energy_risk":  21,
+        "water_risk":  25.9,
+        "land_risk":  24.6,
+        "society_risk":  19.9
+    },
+    {
+        "country":  "Nepal",
+        "iso3":  "NPL",
+        "energy_risk":  59.2,
+        "water_risk":  62.9,
+        "land_risk":  61.2,
+        "society_risk":  59.4
+    },
+    {
+        "country":  "Nauru",
+        "iso3":  "NRU",
+        "energy_risk":  48.2,
+        "water_risk":  54.5,
+        "land_risk":  53.6,
+        "society_risk":  54.3
+    },
+    {
+        "country":  "New Zealand",
+        "iso3":  "NZL",
+        "energy_risk":  22.8,
+        "water_risk":  28.9,
+        "land_risk":  28,
+        "society_risk":  24.4
+    },
+    {
+        "country":  "Oman",
+        "iso3":  "OMN",
+        "energy_risk":  36.2,
+        "water_risk":  57.9,
+        "land_risk":  38.2,
+        "society_risk":  36.4
+    },
+    {
+        "country":  "Pakistan",
+        "iso3":  "PAK",
+        "energy_risk":  66.2,
+        "water_risk":  86.4,
+        "land_risk":  63.8,
+        "society_risk":  59.8
+    },
+    {
+        "country":  "Panama",
+        "iso3":  "PAN",
+        "energy_risk":  44.3,
+        "water_risk":  47.2,
+        "land_risk":  42.9,
+        "society_risk":  39.5
+    },
+    {
+        "country":  "Pitcairn Islands",
+        "iso3":  "PCN",
+        "energy_risk":  53,
+        "water_risk":  56.5,
+        "land_risk":  52.2,
+        "society_risk":  49.3
+    },
+    {
+        "country":  "Peru",
+        "iso3":  "PER",
+        "energy_risk":  70.2,
+        "water_risk":  75.1,
+        "land_risk":  71.2,
+        "society_risk":  69.7
+    },
+    {
+        "country":  "Philippines",
+        "iso3":  "PHL",
+        "energy_risk":  69.1,
+        "water_risk":  73.3,
+        "land_risk":  69.2,
+        "society_risk":  67
+    },
+    {
+        "country":  "Palau",
+        "iso3":  "PLW",
+        "energy_risk":  59.5,
+        "water_risk":  72.3,
+        "land_risk":  73.3,
+        "society_risk":  64.5
+    },
+    {
+        "country":  "Papua New Guinea",
+        "iso3":  "PNG",
+        "energy_risk":  82.4,
+        "water_risk":  86.9,
+        "land_risk":  82.9,
+        "society_risk":  86.9
+    },
+    {
+        "country":  "Poland",
+        "iso3":  "POL",
+        "energy_risk":  19.6,
+        "water_risk":  23.5,
+        "land_risk":  21.9,
+        "society_risk":  16.3
+    },
+    {
+        "country":  "Puerto Rico",
+        "iso3":  "PRI",
+        "energy_risk":  56.6,
+        "water_risk":  67.5,
+        "land_risk":  67.9,
+        "society_risk":  57.3
+    },
+    {
+        "country":  "North Korea",
+        "iso3":  "PRK",
+        "energy_risk":  45.3,
+        "water_risk":  49.7,
+        "land_risk":  48.3,
+        "society_risk":  47.1
+    },
+    {
+        "country":  "Portugal",
+        "iso3":  "PRT",
+        "energy_risk":  23.6,
+        "water_risk":  30.1,
+        "land_risk":  29.3,
+        "society_risk":  26.2
+    },
+    {
+        "country":  "Paraguay",
+        "iso3":  "PRY",
+        "energy_risk":  50.4,
+        "water_risk":  58.1,
+        "land_risk":  45.7,
+        "society_risk":  46.6
+    },
+    {
+        "country":  "Palestinian Authority",
+        "iso3":  "PSE",
+        "energy_risk":  55.5,
+        "water_risk":  60.7,
+        "land_risk":  56.9,
+        "society_risk":  42.6
+    },
+    {
+        "country":  "French Polynesia",
+        "iso3":  "PYF",
+        "energy_risk":  58,
+        "water_risk":  69.9,
+        "land_risk":  70.6,
+        "society_risk":  60.9
+    },
+    {
+        "country":  "Qatar",
+        "iso3":  "QAT",
+        "energy_risk":  29.8,
+        "water_risk":  52.5,
+        "land_risk":  30.6,
+        "society_risk":  24.8
+    },
+    {
+        "country":  "Réunion",
+        "iso3":  "REU",
+        "energy_risk":  45,
+        "water_risk":  49.1,
+        "land_risk":  47.6,
+        "society_risk":  46.2
+    },
+    {
+        "country":  "Romania",
+        "iso3":  "ROU",
+        "energy_risk":  40.6,
+        "water_risk":  47.1,
+        "land_risk":  46.3,
+        "society_risk":  47.2
+    },
+    {
+        "country":  "Russia",
+        "iso3":  "RUS",
+        "energy_risk":  42,
+        "water_risk":  49.5,
+        "land_risk":  37,
+        "society_risk":  37.8
+    },
+    {
+        "country":  "Rwanda",
+        "iso3":  "RWA",
+        "energy_risk":  59.2,
+        "water_risk":  62.9,
+        "land_risk":  61.2,
+        "society_risk":  59.4
+    },
+    {
+        "country":  "Saudi Arabia",
+        "iso3":  "SAU",
+        "energy_risk":  47.9,
+        "water_risk":  57.3,
+        "land_risk":  37.6,
+        "society_risk":  35.5
+    },
+    {
+        "country":  "Sudan",
+        "iso3":  "SDN",
+        "energy_risk":  69.4,
+        "water_risk":  73.9,
+        "land_risk":  69.9,
+        "society_risk":  67.9
+    },
+    {
+        "country":  "Senegal",
+        "iso3":  "SEN",
+        "energy_risk":  69.8,
+        "water_risk":  74.5,
+        "land_risk":  70.6,
+        "society_risk":  68.8
+    },
+    {
+        "country":  "Singapore",
+        "iso3":  "SGP",
+        "energy_risk":  19.2,
+        "water_risk":  22.9,
+        "land_risk":  21.2,
+        "society_risk":  15.4
+    },
+    {
+        "country":  "St Helena, Ascension, Tristan da Cunha",
+        "iso3":  "SHN",
+        "energy_risk":  55.9,
+        "water_risk":  47.3,
+        "land_risk":  45.6,
+        "society_risk":  43.5
+    },
+    {
+        "country":  "Svalbard \u0026 Jan Mayen",
+        "iso3":  "SJM",
+        "energy_risk":  44.2,
+        "water_risk":  47.9,
+        "land_risk":  46.2,
+        "society_risk":  44.4
+    },
+    {
+        "country":  "Solomon Islands",
+        "iso3":  "SLB",
+        "energy_risk":  81,
+        "water_risk":  84.5,
+        "land_risk":  80.2,
+        "society_risk":  83.3
+    },
+    {
+        "country":  "Sierra Leone",
+        "iso3":  "SLE",
+        "energy_risk":  69.1,
+        "water_risk":  73.3,
+        "land_risk":  69.2,
+        "society_risk":  67
+    },
+    {
+        "country":  "El Salvador",
+        "iso3":  "SLV",
+        "energy_risk":  63.2,
+        "water_risk":  69.5,
+        "land_risk":  68.6,
+        "society_risk":  69.3
+    },
+    {
+        "country":  "San Marino",
+        "iso3":  "SMR",
+        "energy_risk":  22.1,
+        "water_risk":  27.7,
+        "land_risk":  26.6,
+        "society_risk":  22.6
+    },
+    {
+        "country":  "Somalia",
+        "iso3":  "SOM",
+        "energy_risk":  61,
+        "water_risk":  65.9,
+        "land_risk":  64.6,
+        "society_risk":  63.9
+    },
+    {
+        "country":  "St. Pierre \u0026 Miquelon",
+        "iso3":  "SPM",
+        "energy_risk":  46.4,
+        "water_risk":  51.5,
+        "land_risk":  50.3,
+        "society_risk":  49.8
+    },
+    {
+        "country":  "Serbia",
+        "iso3":  "SRB",
+        "energy_risk":  47.2,
+        "water_risk":  52.1,
+        "land_risk":  48.2,
+        "society_risk":  46.7
+    },
+    {
+        "country":  "South Sudan",
+        "iso3":  "SSD",
+        "energy_risk":  59.2,
+        "water_risk":  62.9,
+        "land_risk":  61.2,
+        "society_risk":  59.4
+    },
+    {
+        "country":  "São Tomé \u0026 Príncipe",
+        "iso3":  "STP",
+        "energy_risk":  48.9,
+        "water_risk":  55.7,
+        "land_risk":  55,
+        "society_risk":  43.1
+    },
+    {
+        "country":  "Suriname",
+        "iso3":  "SUR",
+        "energy_risk":  65,
+        "water_risk":  72.5,
+        "land_risk":  60,
+        "society_risk":  60.8
+    },
+    {
+        "country":  "Slovakia",
+        "iso3":  "SVK",
+        "energy_risk":  22.8,
+        "water_risk":  28.9,
+        "land_risk":  28,
+        "society_risk":  24.4
+    },
+    {
+        "country":  "Slovenia",
+        "iso3":  "SVN",
+        "energy_risk":  23.9,
+        "water_risk":  30.7,
+        "land_risk":  30,
+        "society_risk":  14.1
+    },
+    {
+        "country":  "Sweden",
+        "iso3":  "SWE",
+        "energy_risk":  21,
+        "water_risk":  25.9,
+        "land_risk":  24.6,
+        "society_risk":  19.9
+    },
+    {
+        "country":  "Eswatini",
+        "iso3":  "SWZ",
+        "energy_risk":  53.6,
+        "water_risk":  49.5,
+        "land_risk":  51.7,
+        "society_risk":  54.7
+    },
+    {
+        "country":  "Sint Maarten",
+        "iso3":  "SXM",
+        "energy_risk":  61.3,
+        "water_risk":  75.3,
+        "land_risk":  76.7,
+        "society_risk":  56
+    },
+    {
+        "country":  "Seychelles",
+        "iso3":  "SYC",
+        "energy_risk":  58,
+        "water_risk":  69.9,
+        "land_risk":  70.6,
+        "society_risk":  60.9
+    },
+    {
+        "country":  "Syria",
+        "iso3":  "SYR",
+        "energy_risk":  66.4,
+        "water_risk":  74.9,
+        "land_risk":  62.7,
+        "society_risk":  64.3
+    },
+    {
+        "country":  "Turks \u0026 Caicos Islands",
+        "iso3":  "TCA",
+        "energy_risk":  61.8,
+        "water_risk":  70,
+        "land_risk":  67.2,
+        "society_risk":  66.3
+    },
+    {
+        "country":  "Chad",
+        "iso3":  "TCD",
+        "energy_risk":  65.8,
+        "water_risk":  67.8,
+        "land_risk":  63.2,
+        "society_risk":  58.9
+    },
+    {
+        "country":  "Togo",
+        "iso3":  "TGO",
+        "energy_risk":  59.2,
+        "water_risk":  62.9,
+        "land_risk":  61.2,
+        "society_risk":  59.4
+    },
+    {
+        "country":  "Thailand",
+        "iso3":  "THA",
+        "energy_risk":  43.6,
+        "water_risk":  46,
+        "land_risk":  41.5,
+        "society_risk":  37.7
+    },
+    {
+        "country":  "Tajikistan",
+        "iso3":  "TJK",
+        "energy_risk":  55.9,
+        "water_risk":  47.3,
+        "land_risk":  45.6,
+        "society_risk":  43.5
+    },
+    {
+        "country":  "Tokelau",
+        "iso3":  "TKL",
+        "energy_risk":  44.6,
+        "water_risk":  48.5,
+        "land_risk":  46.9,
+        "society_risk":  45.3
+    },
+    {
+        "country":  "Turkmenistan",
+        "iso3":  "TKM",
+        "energy_risk":  45,
+        "water_risk":  49.1,
+        "land_risk":  47.6,
+        "society_risk":  46.2
+    },
+    {
+        "country":  "Timor-Leste",
+        "iso3":  "TLS",
+        "energy_risk":  75.5,
+        "water_risk":  81.3,
+        "land_risk":  80.3,
+        "society_risk":  86.5
+    },
+    {
+        "country":  "Tonga",
+        "iso3":  "TON",
+        "energy_risk":  74.8,
+        "water_risk":  80.1,
+        "land_risk":  79,
+        "society_risk":  84.7
+    },
+    {
+        "country":  "Trinidad \u0026 Tobago",
+        "iso3":  "TTO",
+        "energy_risk":  60.9,
+        "water_risk":  74.7,
+        "land_risk":  76,
+        "society_risk":  55.1
+    },
+    {
+        "country":  "Tunisia",
+        "iso3":  "TUN",
+        "energy_risk":  63.9,
+        "water_risk":  88.7,
+        "land_risk":  70,
+        "society_risk":  58.1
+    },
+    {
+        "country":  "Türkiye",
+        "iso3":  "TUR",
+        "energy_risk":  42.4,
+        "water_risk":  50.1,
+        "land_risk":  37.7,
+        "society_risk":  38.6
+    },
+    {
+        "country":  "Tuvalu",
+        "iso3":  "TUV",
+        "energy_risk":  79.8,
+        "water_risk":  88.5,
+        "land_risk":  76.4,
+        "society_risk":  84.2
+    },
+    {
+        "country":  "Taiwan",
+        "iso3":  "TWN",
+        "energy_risk":  49.6,
+        "water_risk":  56.9,
+        "land_risk":  56.3,
+        "society_risk":  44.9
+    },
+    {
+        "country":  "Tanzania",
+        "iso3":  "TZA",
+        "energy_risk":  61,
+        "water_risk":  65.9,
+        "land_risk":  64.6,
+        "society_risk":  63.9
+    },
+    {
+        "country":  "Uganda",
+        "iso3":  "UGA",
+        "energy_risk":  66.6,
+        "water_risk":  69,
+        "land_risk":  64.5,
+        "society_risk":  60.7
+    },
+    {
+        "country":  "Ukraine",
+        "iso3":  "UKR",
+        "energy_risk":  47.1,
+        "water_risk":  52.7,
+        "land_risk":  51.6,
+        "society_risk":  51.6
+    },
+    {
+        "country":  "U.S. Outlying Islands",
+        "iso3":  "UMI",
+        "energy_risk":  44.6,
+        "water_risk":  48.5,
+        "land_risk":  46.9,
+        "society_risk":  45.3
+    },
+    {
+        "country":  "Uruguay",
+        "iso3":  "URY",
+        "energy_risk":  44.2,
+        "water_risk":  39.1,
+        "land_risk":  41,
+        "society_risk":  43.1
+    },
+    {
+        "country":  "United States",
+        "iso3":  "USA",
+        "energy_risk":  30.9,
+        "water_risk":  22.3,
+        "land_risk":  20.6,
+        "society_risk":  14.5
+    },
+    {
+        "country":  "Uzbekistan",
+        "iso3":  "UZB",
+        "energy_risk":  46.8,
+        "water_risk":  52.1,
+        "land_risk":  51,
+        "society_risk":  50.7
+    },
+    {
+        "country":  "Vatican City",
+        "iso3":  "VAT",
+        "energy_risk":  44.6,
+        "water_risk":  48.5,
+        "land_risk":  46.9,
+        "society_risk":  45.3
+    },
+    {
+        "country":  "St. Vincent \u0026 Grenadines",
+        "iso3":  "VCT",
+        "energy_risk":  57.3,
+        "water_risk":  68.7,
+        "land_risk":  69.3,
+        "society_risk":  59.1
+    },
+    {
+        "country":  "Venezuela",
+        "iso3":  "VEN",
+        "energy_risk":  70.9,
+        "water_risk":  62.3,
+        "land_risk":  60.6,
+        "society_risk":  58.5
+    },
+    {
+        "country":  "British Virgin Islands",
+        "iso3":  "VGB",
+        "energy_risk":  64.3,
+        "water_risk":  74.2,
+        "land_risk":  71.9,
+        "society_risk":  59.5
+    },
+    {
+        "country":  "U.S. Virgin Islands",
+        "iso3":  "VIR",
+        "energy_risk":  58.8,
+        "water_risk":  71.1,
+        "land_risk":  72,
+        "society_risk":  62.7
+    },
+    {
+        "country":  "Vietnam",
+        "iso3":  "VNM",
+        "energy_risk":  61.8,
+        "water_risk":  67.1,
+        "land_risk":  66,
+        "society_risk":  65.7
+    },
+    {
+        "country":  "Vanuatu",
+        "iso3":  "VUT",
+        "energy_risk":  79.8,
+        "water_risk":  88.5,
+        "land_risk":  76.4,
+        "society_risk":  84.2
+    },
+    {
+        "country":  "Wallis \u0026 Futuna",
+        "iso3":  "WLF",
+        "energy_risk":  55.9,
+        "water_risk":  47.3,
+        "land_risk":  45.6,
+        "society_risk":  43.5
+    },
+    {
+        "country":  "Samoa",
+        "iso3":  "WSM",
+        "energy_risk":  76.9,
+        "water_risk":  83.7,
+        "land_risk":  83,
+        "society_risk":  77.1
+    },
+    {
+        "country":  "Kosovo",
+        "iso3":  "XKS",
+        "energy_risk":  48.6,
+        "water_risk":  55.1,
+        "land_risk":  54.3,
+        "society_risk":  55.2
+    },
+    {
+        "country":  "Yemen",
+        "iso3":  "YEM",
+        "energy_risk":  59.6,
+        "water_risk":  81.5,
+        "land_risk":  61.9,
+        "society_risk":  60.3
+    },
+    {
+        "country":  "South Africa",
+        "iso3":  "ZAF",
+        "energy_risk":  68,
+        "water_risk":  71.5,
+        "land_risk":  67.2,
+        "society_risk":  64.3
+    },
+    {
+        "country":  "Zambia",
+        "iso3":  "ZMB",
+        "energy_risk":  70.9,
+        "water_risk":  62.3,
+        "land_risk":  60.6,
+        "society_risk":  58.5
+    },
+    {
+        "country":  "Zimbabwe",
+        "iso3":  "ZWE",
+        "energy_risk":  63.6,
+        "water_risk":  70.1,
+        "land_risk":  69.3,
+        "society_risk":  70.2
+    }
+]

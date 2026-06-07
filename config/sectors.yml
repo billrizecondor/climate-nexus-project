@@ -1,0 +1,17 @@
+﻿sectors:
+  energy:
+    label: Energy
+    weight: 0.25
+    description: Energy system exposure, reliability, transition readiness, and demand stress.
+  water:
+    label: Water
+    weight: 0.25
+    description: Scarcity, flooding, drought, water quality, and freshwater system pressure.
+  land:
+    label: Land
+    weight: 0.25
+    description: Agricultural exposure, ecosystem stress, land degradation, and settlement risk.
+  society:
+    label: Society
+    weight: 0.25
+    description: Human vulnerability, public health, governance, and adaptive capacity.
