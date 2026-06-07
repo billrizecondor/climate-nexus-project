@@ -19,18 +19,6 @@ To run the website locally:
 3. Type: python -m http.server 8000 --directory site
 4. Open your browser and go to http://localhost:8000
 
-From the project root, run:
-
-```powershell
-python -m http.server 8000 --directory site
-```
-
-Then open:
-
-```text
-http://localhost:8000
-```
-
 The local server is needed because the page loads the JSON dataset from `site/assets/data/`.
 
 ## Project Structure
