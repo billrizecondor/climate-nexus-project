@@ -12,6 +12,12 @@ The website lets users switch between four sector-specific risk views:
 Each country has a synthetic `0-100` risk score for every sector. Higher values represent higher climate-related risk. The dataset is mock data created for visualization and portfolio demonstration purposes.
 
 ## Preview The Website
+To run the website locally:
+
+1. Open command line (Windows key + R) then run: cmd
+2. Change directory to project folder location. Example: cd "C:\Users\[name of the project folder]"
+3. Type: python -m http.server 8000 --directory site
+4. Open your browser and go to http://localhost:8000
 
 From the project root, run:
 
