@@ -11,6 +11,10 @@ The website lets users switch between four sector-specific risk views:
 
 Each country has a synthetic `0-100` risk score for every sector. Higher values represent higher climate-related risk. The dataset is mock data created for visualization and portfolio demonstration purposes.
 
+🌍 **Live demo:** https://billrizecondor.github.io/climate-nexus-project/
+
+![Website screenshot](<Website Screenshot.png>)
+
 ## Preview The Website
 To run the website locally:
 
